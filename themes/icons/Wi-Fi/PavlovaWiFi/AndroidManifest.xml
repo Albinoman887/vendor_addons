@@ -14,12 +14,8 @@
   ~ limitations under the License.
   -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-<<<<<<< HEAD:themes/icons/Wi-Fi/PavlovaWiFi/AndroidManifest.xml
     package="com.android.systemui.wifibar_m" android:versionCode="1"
-=======
-    package="com.android.systemui.wifiWindy" android:versionCode="1"
     android:allowBackup="false"
->>>>>>> 9608268c (overlays: don't allow backup):themes/icons/Wi-Fi/WindyWiFi/AndroidManifest.xml
     android:versionName="1.0">
     <overlay android:targetPackage="android" android:category="android.theme.customization.wifi_icon" android:priority="1"/>
     <application android:label="Pavlova UI" android:hasCode="false"/>
